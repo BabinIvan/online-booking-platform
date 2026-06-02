@@ -10,9 +10,9 @@
 - README.md — описание проекта
 
 ## Системные требования
-- Node.js 22+
-- PostgreSQL 16+
-- Git
+- Операционная система Windows 10/11
+- Веб-браузер (Google Chrome, Microsoft Edge)
+- Подключение к Интернету
 - Visual Studio Code
 
 ## Основные функции
