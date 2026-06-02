@@ -6,14 +6,12 @@
 ## Используемые технологии
 
 * Next.js
-* NestJS
-* PostgreSQL (multi-tenant)
+* Nest.jS
+* PostgreSQL
 * Stripe API
 * React Native
 * GitHub
-* Git
 * Jira
-* Visual Studio Code
 
 ## Ключевые функции
 
