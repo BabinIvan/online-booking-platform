@@ -4,7 +4,6 @@
 
 ## Используемые технологии и инструменты
 - GitHub
-- Git
 - Jira
 - Visual Studio Code
 - README.md
